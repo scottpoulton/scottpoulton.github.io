@@ -4,12 +4,12 @@ title: "credits"
 
 Attributing all actions and achievements to oneself is a mistake.
 
-**This site is powered by:**
+## This site is powered by
 
-- [Hugo](https://gohugo.io/) — The static site generator that builds and renders these pages.
-- [GitHub Pages](https://pages.github.com/) — Free and reliable website hosting direct from this GitHub repository.
-- [Google Workspace](https://workspace.google.com/) — Domain management and email.
+* [Hugo](https://gohugo.io/) - Static site generator that builds and renders these pages.
+* [GitHub Pages](https://pages.github.com/) - Website Hosting.
+* [Google Workspace](https://workspace.google.com/) — Domain management.
 
-**Special thanks to:**
+## Special thanks to
 
-- [Hello Friend Theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng) — For the elegant site design inspiration and theme foundation.
+* [Hello Friend Theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng) — Theme foundation.
