@@ -35,3 +35,12 @@ ul {
 .info-page ul {
   margin-bottom: 2em;
 }
+
+@media (max-width: 600px) {
+  .container > .content > main > div > h1 {
+    font-size: 2rem !important;
+    text-align: center;
+    word-break: break-word;
+    padding: 0 8px;
+  }
+}
