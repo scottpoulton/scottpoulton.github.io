@@ -29,7 +29,7 @@ hr, .footer, .about-page-footer, .about-content-footer {
 }
 
 ul {
-  margin-bottom: 2em; /* Or adjust value */
+  margin-bottom: 2em; 
 }
 
 .info-page ul {
@@ -40,7 +40,6 @@ ul {
   .container > .content > main > div > h1 {
     font-size: 2rem !important;
     text-align: center;
-    word-break: break-word;
     padding: 0 8px;
   }
 }
