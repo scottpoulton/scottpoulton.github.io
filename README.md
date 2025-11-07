@@ -1,6 +1,4 @@
-# somewhere/nowhere
-
-Welcome to my personal website and portfolio.
+Welcome to my personal website
 
 ## About
 
