@@ -9,7 +9,7 @@ theme = "github.com/rhazdon/hugo-theme-hello-friend-ng"
 
 [params]
   customCSS = ["/css/custom.css"]
-  homeSubtitle = "welcome"
+  homeSubtitle = "welcome to my website"
 
 [params.logo]
   logoMark = "scottpoulton"
