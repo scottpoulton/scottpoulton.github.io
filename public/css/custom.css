@@ -1,0 +1,37 @@
+.logo__mark,
+.logo__text {
+  font-size: 1rem;
+}
+
+.post-title > a {
+  pointer-events: none;  
+  text-decoration: none; 
+  color: inherit;        
+  cursor: default;
+}
+.post-title > a:hover,
+.post-title > a:focus {
+  text-decoration: none;
+}
+
+body.about, .about-content {
+  overflow: hidden !important;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+body.about::-webkit-scrollbar, .about-content::-webkit-scrollbar {
+  display: none;
+}
+
+hr, .footer, .about-page-footer, .about-content-footer {
+  display: none !important;
+  border: none !important;
+}
+
+ul {
+  margin-bottom: 2em; /* Or adjust value */
+}
+
+.info-page ul {
+  margin-bottom: 2em;
+}
