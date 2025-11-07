@@ -12,7 +12,7 @@ If you can't see me, here's where to find me
 
 If you're looking for my CV, it's on my GitHub.
 
-If you're looking for my Contact information, it's on my CV.
+If you're looking for my contact details, they're on my CV.
 
 If you want to get in touch, email me.
 
