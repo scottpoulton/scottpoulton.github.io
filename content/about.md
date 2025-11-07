@@ -12,6 +12,7 @@ Currently studying Medical Science @ CSU.
 * self hosting
 * fermentation
 * snowboarding
+* walking
 
 ## Things i don't like
 * subscription models
@@ -19,3 +20,4 @@ Currently studying Medical Science @ CSU.
 * airport security
 * gatekeeping
 * loud noises
+* egotism
