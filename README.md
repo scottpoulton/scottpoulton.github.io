@@ -2,9 +2,9 @@
 
 ## About
 
-This site is a place for me to share a bit about myself, things I like, my contact links, and credits for the technology and themes powering the site.
+This site is a place for me to share a bit about myself, things I like, my social media links, and credits for the technology and theme powering the site.
 
-- **About:** Get to know more about me, my background, and interests.
+- **About:** Get to know more about me and my interests.
 - **Credits:** See the tools and theme used to build this site.
 - **Links:** Find ways to connect with me on various platforms.
 
