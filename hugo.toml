@@ -11,6 +11,10 @@ theme = "github.com/rhazdon/hugo-theme-hello-friend-ng"
   customCSS = ["/css/custom.css"]
   homeSubtitle = "welcome to my website"
 
+[minify]
+  disableXML = true
+  minifyOutput = false
+
 [params.logo]
   logoMark = "scottpoulton"
   logoText = ">"
