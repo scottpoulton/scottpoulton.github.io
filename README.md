@@ -28,6 +28,4 @@ To run or update this site on your machine:
 
 This site is automatically deployed via [GitHub Pages](https://pages.github.com/) using GitHub Actions. Any changes pushed to the `main` branch will rebuild and redeploy the site.
 
----
-
 Powered by [Hugo](https://gohugo.io/) & [Hello Friend Theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng).
